@@ -1,0 +1,20 @@
+{
+    "params":
+     {
+       "local_server": "True",
+       "local_uri": "mysql+pymysql://root:@localhost/avid",
+       "prod_uri": "xyz",
+       "fb_uri": "https://www.facebook.com/nirmal.unagar",
+       "tweet_uri": "https://twitter.com/Nirmal03236053",
+       "git_uri": "https://github.com/danielmiessler/SecLists",
+       "blog_name": "Avid Passanger",
+       "about_text": "This is Nirmal , This is a Traveller",
+       "no_of_post": 5,
+       "admin_user": "nirmal",
+       "admin_pass": "nirmalunagar",
+       "upload_location":"C:\\Users\\Nirmal\\Desktop\\flaskDev\\static"
+
+
+     }
+
+}
